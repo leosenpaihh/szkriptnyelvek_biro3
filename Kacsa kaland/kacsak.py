@@ -10,4 +10,5 @@
 def kacsak():
     print("kacsaaaaaak!!!")
 
-#(kacsak()) tesztelés
+#Tesztelés
+#(kacsak())
